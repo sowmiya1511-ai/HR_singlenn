@@ -97,9 +97,3 @@ cd your-repo-name
 pip install pandas scikit-learn
 jupyter notebook
 ```
-
----
-
-## 📄 License
-
-MIT License
